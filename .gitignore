@@ -16,6 +16,9 @@ local.properties
 .settings/
 .loadpath
 
+# PHPStorm
+.idea
+
 # External tool builders
 .externalToolBuilders/
 
